@@ -6,6 +6,8 @@
  * ReactJS - For Frontend
  
 ## *Screenshot:*
+*Here the hover patterns are shown*
+
 <img src="https://user-images.githubusercontent.com/64465190/175551304-ced74323-eee6-422c-8af8-64488ffb5aa0.png" height="350"> 
 <img src="https://user-images.githubusercontent.com/64465190/175551308-59b21d81-5a1a-4704-8353-d8f4be6c68a1.png" height="350"> 
 <img src="https://user-images.githubusercontent.com/64465190/175551317-062b6e53-20c3-48a2-a610-cc40e4bd1b56.png" height="350"> 
