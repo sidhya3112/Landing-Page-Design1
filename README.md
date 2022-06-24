@@ -6,7 +6,7 @@
  * ReactJS - For Frontend
  
 ## *Screenshot:*
-<img src="https://user-images.githubusercontent.com/64465190/174443681-d136b96a-9b19-4d10-b2dc-045c1427454f.png" height="350"> 
+<img src="" height="350"> 
 
  ## *Future Goals:*
  * To make the page fully-responsive.
