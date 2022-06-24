@@ -1,0 +1,67 @@
+.reviewCard{
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.reviewCard-body{
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0px;
+    gap: 5px;
+}
+
+.body-1{
+    list-style-type: none;
+    display: flex;
+    gap: 5px;
+    padding: 20px;
+}
+
+.quotes{
+    width: 25px;
+}
+
+.review{
+    color: rgb(67, 67, 67);
+}
+
+.body-2{
+    list-style-type: none;
+    display: flex;
+    gap: 5px;
+    align-items: center;
+    padding: 0px;
+    padding-bottom: 10px;
+}
+
+.man{
+    width: 60px;
+    border: 1px solid #4B055D;
+    border-radius: 40px;
+}
+
+.body-3{
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0px;
+    gap: 8px;
+}
+
+.personName{
+    margin-block-end: 0px;
+    margin-block-start: 0px;
+    font-size: 17px;
+}
+
+.personPost{
+    color: rgb(67, 67, 67);
+}
+
