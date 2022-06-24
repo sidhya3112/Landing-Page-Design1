@@ -59,6 +59,7 @@
     font-size: 12px;
     text-transform: uppercase;
     padding: 8px;
+    cursor: pointer;
 }
 
 .pricingCardButton:hover .pricingCard-body{
