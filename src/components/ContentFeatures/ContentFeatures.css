@@ -1,0 +1,28 @@
+.Container1{
+    padding-top: 80px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.containerHeading{
+    color: #4B055D;
+    font-size: 35px;
+}
+
+.cardWrapper{
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    align-items: stretch;
+    gap: 15px;
+}
+
+.cardButton{
+    background-color: transparent;
+    padding: 0;
+    border: none;
+    box-shadow: 2px 2px 15px #4d4c4c;
+}
+
