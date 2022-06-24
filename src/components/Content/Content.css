@@ -1,0 +1,42 @@
+.Container{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 80px;
+    gap: 10%;
+    align-items: center;
+}
+
+.image{
+    padding-left: 50px;
+    width: 45%;
+}
+
+.listContainer{
+    padding-right: 50px;
+}
+
+.listTitle{
+    color: #4B055D;
+    font-size: 35px;
+}
+
+.list{
+    list-style-image: url('../../images/arrow.png');
+    list-style-position: outside;
+   
+
+
+}
+
+.itemTitle{
+    font-size: 22px;
+    margin-block-end: 0px;
+    
+}
+
+.itemDes{
+    font-size: 14px;
+    margin-block-start: 3px;
+    color: rgb(67, 67, 67);
+}
+

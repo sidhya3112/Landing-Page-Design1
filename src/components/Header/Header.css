@@ -1,0 +1,51 @@
+.header{
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+  
+}
+
+.logo{
+    padding-left: 50px;
+    padding-top: 20px;
+    width: 150px;
+}
+
+.navComponents{
+    list-style-type: none;
+    display: flex;
+    justify-items: space-between;
+    align-items: center;
+    padding-right: 50px;
+    gap: 45px;
+}
+
+.navButtons{
+    background-color: transparent;
+    border: none;
+    font-size: 16px;
+}
+
+.navButtons:hover{
+    color: #C8A8AA;
+    border-bottom: 1px solid #C8A8AA;  
+}
+
+.trialButton{
+    background-color: #4B055D;
+    border: none;
+    height: 40px;
+    width: 130px;
+    color: white;
+    border-radius: 5px;
+    font-size: 15px;
+    text-transform: uppercase;
+}
+
+.trialButton:hover{
+    outline-color: transparent;
+    outline-style: solid;
+    box-shadow: 0px 0px 0 1px black;
+}
