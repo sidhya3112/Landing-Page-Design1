@@ -10,7 +10,7 @@ import secureData from '../../images/secure-data.png'
 const ContentFeatures = () => {
   return (
     <div className='Container1'>
-        <h1 className='containerHeading'>We Provide Best Features for Customers</h1>
+        <h1 className='containerHeading'>We Provide Best Features For Customers</h1>
         <div>
             <ul className='cardWrapper'>
                 <li>

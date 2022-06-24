@@ -19,11 +19,6 @@
     margin-block-end: 0px;
 }
 
-.card-des{
-    font-size: 13px;
-    color: rgb(67, 67, 67);
-}
-
 .card-body{
     list-style-type: none;
     padding-bottom: 20px;
@@ -34,7 +29,8 @@
     gap: 13px;
 }
 
-.card-body:hover{
+
+.cardButton:hover .card-body{
     color: white;
     background-color: #4B055D;
 }

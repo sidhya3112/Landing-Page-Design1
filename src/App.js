@@ -2,6 +2,7 @@ import './App.css';
 import Content from './components/Content/Content';
 import ContentFeatures from './components/ContentFeatures/ContentFeatures';
 import Header from './components/Header/Header';
+import Pricing from './components/Pricing/Pricing';
 import Showcase from './components/Showcase/Showcase';
 
 function App() {
@@ -11,6 +12,7 @@ function App() {
     <Showcase/>
     <Content/>
     <ContentFeatures/>
+    <Pricing/>
     </>
   );
 }

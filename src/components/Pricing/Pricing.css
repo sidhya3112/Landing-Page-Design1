@@ -1,4 +1,4 @@
-.Container1{
+.pricingContainer{
     padding-top: 80px;
     display: flex;
     flex-direction: column;
@@ -6,12 +6,12 @@
     align-items: center;
 }
 
-.containerHeading{
+.choosePlanHead{
     color: #4B055D;
     font-size: 35px;
 }
 
-.cardWrapper{
+.pricingCardWrapper{
     list-style-type: none;
     display: flex;
     justify-content: center;
@@ -19,12 +19,10 @@
     gap: 15px;
 }
 
-.cardButton{
+.pricingCardButton{
     background-color: transparent;
     padding: 0;
     border: none;
     box-shadow: 2px 2px 15px #4d4c4c;
 }
-
-
 
