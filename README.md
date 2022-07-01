@@ -18,5 +18,5 @@
 
 
  ## *Future Goals:*
- * To make the page fully-responsive.
+ * Currently, works perfect for window-size: 1440px. But will make the page fully-responsive in future.
  
