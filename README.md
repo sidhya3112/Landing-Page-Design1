@@ -5,6 +5,9 @@
  ## *Tech-Stack Used:*
  * ReactJS - For Frontend
  
+ ## *Future Goals:*
+ * Currently, works perfect for window-size: 1440px. But will make the page fully-responsive in future.
+ 
 ## *Screenshot:*
 *Here the hover patterns are shown*
 
@@ -17,6 +20,5 @@
 <img src="https://user-images.githubusercontent.com/64465190/175551302-1d8f3ec9-54d0-4c15-875d-303ddd192e55.png" height="350"> 
 
 
- ## *Future Goals:*
- * Currently, works perfect for window-size: 1440px. But will make the page fully-responsive in future.
+
  
